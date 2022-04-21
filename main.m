@@ -1,7 +1,7 @@
 clear all; close all;
 
-param.M = 16;
-param.N = 32;
+param.M = 32;
+param.N = 16;
 param.K=3;
 param.d = 0.5;
 dic_range = [-45:1:45].';
